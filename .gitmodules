@@ -1,3 +1,9 @@
 [submodule "diaphora"]
 	path = diaphora
 	url = https://github.com/joxeankoret/diaphora.git
+[submodule "flare-ida"]
+	path = flare-ida
+	url = https://github.com/fireeye/flare-ida.git
+[submodule "bap-ida-python"]
+	path = bap-ida-python
+	url = https://github.com/BinaryAnalysisPlatform/bap-ida-python.git

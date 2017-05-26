@@ -7,3 +7,6 @@
 [submodule "bap-ida-python"]
 	path = bap-ida-python
 	url = https://github.com/BinaryAnalysisPlatform/bap-ida-python.git
+[submodule "mynav"]
+	path = mynav
+	url = https://github.com/joxeankoret/mynav.git

@@ -16,3 +16,6 @@
 [submodule "funcap"]
 	path = funcap
 	url = https://github.com/deresz/funcap.git
+[submodule "labeless"]
+	path = labeless
+	url = https://github.com/a1ext/labeless.git

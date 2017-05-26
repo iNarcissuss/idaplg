@@ -10,3 +10,6 @@
 [submodule "mynav"]
 	path = mynav
 	url = https://github.com/joxeankoret/mynav.git
+[submodule "auto_re"]
+	path = auto_re
+	url = https://github.com/a1ext/auto_re.git

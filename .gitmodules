@@ -19,3 +19,6 @@
 [submodule "labeless"]
 	path = labeless
 	url = https://github.com/a1ext/labeless.git
+[submodule "ida"]
+	path = ida
+	url = https://github.com/devttys0/ida.git
